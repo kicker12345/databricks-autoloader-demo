@@ -1,0 +1,11 @@
+order_id,customer_name,city,product,amount,order_date,payment_method
+21,Kiran Desai,Mumbai,Saree,2900,2024-02-04,UPI
+22,Manish Tiwari,Delhi,Kurta,1350,2024-02-05,Credit Card
+23,Shreya Jain,Bangalore,Lehenga,7800,2024-02-06,Debit Card
+24,Anil Kapoor,Pune,Sherwani,4800,2024-02-07,UPI
+25,Divya Nair,Hyderabad,Dupatta,850,2024-02-08,Cash
+26,Rajesh Sharma,Chennai,Blouse,1600,2024-02-09,Net Banking
+27,Preethi Rao,Kochi,Saree,3300,2024-02-10,UPI
+28,Mohit Sinha,Kolkata,Kurta,1050,2024-02-11,Credit Card
+29,Swati Gupta,Jaipur,Lehenga,8800,2024-02-12,Debit Card
+30,Tarun Mehta,Ahmedabad,Sherwani,4000,2024-02-13,UPI

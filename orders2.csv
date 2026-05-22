@@ -1,0 +1,11 @@
+order_id,customer_name,city,product,amount,order_date
+11,Amit Sharma,Chennai,Saree,3100,2024-01-25
+12,Sunita Patel,Jaipur,Kurta,1400,2024-01-26
+13,Rohit Verma,Kolkata,Lehenga,7200,2024-01-27
+14,Kavita Singh,Lucknow,Sherwani,5100,2024-01-28
+15,Deepak Yadav,Ahmedabad,Dupatta,950,2024-01-29
+16,Meena Kumari,Surat,Blouse,1750,2024-01-30
+17,Arjun Nair,Kochi,Saree,2800,2024-01-31
+18,Pooja Mishra,Bhopal,Kurta,1100,2024-02-01
+19,Suresh Reddy,Vizag,Lehenga,9100,2024-02-02
+20,Ritu Agarwal,Nagpur,Sherwani,4200,2024-02-03
